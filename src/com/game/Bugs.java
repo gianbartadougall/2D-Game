@@ -4,8 +4,6 @@ public class Bugs {
 
     /* BUGS
     * when jumping and running, not always flush with the ground
-    * the shoot animation for the character doesn't work properly
-    * not a bug but fix up the gravity section in the players movement
     *
     *
     *
